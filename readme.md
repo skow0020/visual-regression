@@ -41,4 +41,4 @@ public void Visual_Regression_logo_Test()
 
 ### Dependencies
 - [Selenium](https://www.seleniumhq.org/docs/)
-- [AForge.Imaging] (http://www.aforgenet.com/framework/docs/html/d087503e-77da-dc47-0e33-788275035a90.htm)
+- [AForge.Imaging](http://www.aforgenet.com/framework/docs/html/d087503e-77da-dc47-0e33-788275035a90.htm)
